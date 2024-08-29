@@ -35,7 +35,7 @@ def gpt4o(question):
     return text
 
 def llmlingua(prompt):
-    compressed_prompt = llm_lingua_compressor.compress_prompt(prompt, instruction="", question="", target_token=200)
+    compressed_prompt = llm_lingua_compressor.compress_prompt(prompt, instruction="", question="", target_token=50)
 
     return compressed_prompt["compressed_prompt"]
 
