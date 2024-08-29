@@ -1,0 +1,200 @@
+gpt-4o~Create a computer program to output all the possible combinations that can be made from the following letters: GDHAC~0:00:04.198079
+gpt-4o~Correct the following sentence for proper grammar: "The cat is drinking the milk then going to sleep".~0:00:00.377143
+gpt-4o~Suggest two methods to save energy and explain why these methods are more effective than other methods.~0:00:06.629639
+gpt-4o~Given the following statement, create a statistic or numerical figure to back it up: Many small businesses are having difficulties due to the current pandemic~0:00:01.092859
+gpt-4o~Generate a creative title for a paper about the ethical implications of using artificial intelligence for criminal justice.~0:00:00.507278
+gpt-4o~Classify the following sentence as either positive, negative, or neutral sentiment: "I have a feeling I'm going to like this."~0:00:00.902197
+gpt-4o~Generate a possible future for humankind if artificial intelligence (AI) becomes more advanced and prevalent.~0:00:10.258233
+gpt-4o~Write a sentence that humorously turns the following cliché phrase to its opposite: "still waters run deep"~0:00:00.408644
+gpt-4o~In the sentence "She enjoyed the ride through the countryside", replace the word "ride" with a synonym.~0:00:00.669586
+gpt-4o~Compose a tweet (280 characters or less) about an article on the importance of reducing our carbon footprint.~0:00:00.813123
+gpt-4o~Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually~0:00:04.584636
+gpt-4o~Come up with a new slogan for a clothing brand with the words "dream", "sophistication", and "class".~0:00:00.393955
+gpt-4o~Write an opening line for a science fiction book about a future world where robots dominate society.~0:00:01.295998
+gpt-4o~Generate an appropriate response for a customer service chatbot when the customer asks for help with a technical issue.~0:00:00.772667
+gpt-4o~Make a list of safety precautions that people should follow if they find a wild animal in their home.~0:00:04.309020
+gpt-4o~Choose one of the following topics and write a persuasive speech about it: Should taxes be lowered for everyone?~0:00:08.113337
+gpt-4o~Generate a funny story (title and content in <100 words) about a hedgehog visiting a sushi restaurant.~0:00:01.339956
+gpt-4o~Generate a story starting with the sentence "It was already late when they stepped out of the house".~0:00:09.013029
+gpt-4o~Suggest an appropriate title for a blog post that discusses the impact of social media on our society.~0:00:00.424122
+gpt-4o~Generate a list of questions that can be used for interviewing someone to be a sales representative.~0:00:06.113313
+gpt-4o~Edit the following sentence to make it more concise and powerful: "My painting skills are not very good".~0:00:00.361651
+gpt-4o~Classify the following animals according to the type of organism they belong to: elephant, rabbit, snake.~0:00:00.555813
+gpt-4o~Generate a headline for an article that discusses the implications of recent advances in artificial intelligence~0:00:00.391494
+gpt-4o~Edit the following sentence to make it more concise: We regret to inform you that we are unable to accept your proposal.~0:00:00.573045
+gpt-4o~Generate a Haiku poem with 10 syllables in the first line, 7 syllables in the second, and 5 syllables in the third.~0:00:00.484088
+gpt-4o~Please suggest two possible ingredients that could be added to a smoothie and explain how they would benefit the drinker.~0:00:04.166693
+gpt-4o~Compose a script for an advertisement aimed at helping people understand the importance of exercise.~0:00:06.004996
+gpt-4o~Construct a regular expression that characterizes a valid string of length 5 containing only numbers.~0:00:01.855713
+gpt-4o~Rewrite the following sentence using third conditional: "I would have gone to university if I had enough money."~0:00:00.451397
+gpt-4o~Compose a story beginning with the sentence "Once upon a time, there was a little boy who loved to explore".~0:00:09.501575
+gpt-4o~Formulate a mathematical equation to express the movement of 100 g of a substance from a temperature of 273 K to a temperature of 293 K.~0:00:05.027991
+gpt-4o~Create a SQL query for the given database to select the customer records with a customer id of 1000 or greater.~0:00:03.010370
+gpt-4o~Imagine a scenario where turtles and frogs live together. Describe the living environment of the two species.~0:00:06.179208
+gpt-4o~Identify a specific example of a conflict of interests and explain why it constitutes such a conflict.~0:00:03.356863
+gpt-4o~Generate a random "password" that meets the following criteria: - 8 characters long - Must contain at least 1 letter and 1 number~0:00:00.785441
+gpt-4o~Given the sentence, "The cafe serves some of the best coffee in town," generate a slogan for the cafe.~0:00:00.477414
+gpt-4o~Create a blog post of 300 words discussing how AI has impacted the logistics and supply chain industry.~0:00:05.608910
+gpt-4o~Produce sample phrasing for a customer service representative for the following phrase: “Good morning, how may I help you?~0:00:01.338318
+gpt-4o~Edit the following sentence so that it is in the simple past tense: "Today, I goes to the store to buy eggs."~0:00:00.311954
+gpt-4o~Can you please provide a detailed answer for this question : Why is the price of goods higher in the market than on the internet?~0:00:07.358762
+gpt-4o~Create a query for a database that finds all countries in the world with a population greater than 10 million.~0:00:01.884516
+gpt-4o~Edit the following sentence as required: "The great pyramid is one of the greatest wonder of the world."~0:00:00.458096
+gpt-4o~Answer the following question: "What is the most important factor in judging the success of a startup?"~0:00:02.709574
+gpt-4o~Edit the following sentence so that it is grammatically correct: "The books in the store was on sale."~0:00:00.325753
+gpt-4o~Answer the following question:What are some of the differences between a red kangaroo and a gray kangaroo?~0:00:08.293010
+gpt-4o~Write a short story, set in the future, about a character who decides to travel to a distant planet in pursuit of a new life~0:00:09.309439
+gpt-4o~Describe a situation when understanding the meaning of context might be necessary to complete the task.~0:00:05.765575
+gpt-4o~Shorten the sentence without changing the meaning: Even though Jennifer studied a lot, she performed very poorly on the test.~0:00:00.339685
+gpt-4o~Can you name a branch of computer science dealing with the creation of programs to simulate the behavior of an autonomous agent?~0:00:01.344281
+gpt-4o~Formulate a query to match and retrieve a user-uploaded PDF document that contains the word "insurance".~0:00:06.692842
+gpt-4o~Verify if the following claim is true- "Kaveri River is the longest river in India." Output true or false.~0:00:00.880596
+gpt-4o~Imagine you are a travel blogger writing about your experience in a foreign country. Draft a short blog post about your favorite memory there.~0:00:06.390655
+gpt-4o~Suggest a creative and engaging activity that could be done with a group of elementary school children.~0:00:06.553502
+gpt-4o~If a customer calls and wants to find out their order status, what steps should the customer service representative take?~0:00:07.431451
+gpt-4o~Identify whether the following phrase is a true or false statement “The universe is ever expanding.”~0:00:01.188060
+gpt-4o~Summarize the following statement in a single sentence: Our goal is to create sustainable and eco-friendly products.~0:00:00.402095
+gpt-4o~Generate a multiple choice question based on the following statement: "Natural language processing is a field of study within computer science."~0:00:02.385963
+gpt-4o~Incorporate ideas from the following quote into a presentayion: "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change".~0:00:05.831126
+gpt-4o~Generate a random password with length 8 and containing one capital letter, one number, and one special character.~0:00:00.700378
+gpt-4o~Search and provide a numeric answer to the question "how many voting members are in the UN Security Council?"~0:00:00.341765
+gpt-4o~Edit the following sentence so it uses the word "licentious": Bill and Ted's behavior was inappropriate.~0:00:00.406212
+gpt-4o~Identify any contradictions in the following sentence: "I always try to be honest, but sometimes I lie."~0:00:01.643550
+gpt-4o~Classify the type of clothing based on the following description: A sleeveless top with a V-neck collar.~0:00:01.052339
+gpt-4o~The web page should display the following message, "This page is under construction. Please check back soon." Construct the HTML code to display the message.~0:00:04.078680
+gpt-4o~Write an apt email in 150 words, thanking your current boss for providing you an opportunity for growth.~0:00:02.107322
+gpt-4o~Generate a story of 3 to 5 sentences that uses a metaphor to describe the relationship between two people~0:00:00.838777
+gpt-4o~Create a Multilayer Perceptron (MLP) Neural Network with three inputs and one output that can predict an output based on the input variables.~0:00:10.861205
+gpt-4o~Categorize the words "whale," "dolphin," "shark," "clam," and "crab" according to their biological classification.~0:00:01.018467
+gpt-4o~What are the benefits of using a deep learning model instead of a traditional machine learning model?~0:00:07.332037
+gpt-4o~Generate an article title for a news article discussing the side-effects of the coronavirus mandated mask-wearing.~0:00:00.415839
+gpt-4o~Based on the following description, classify the type of animal: Hairy mammal with upturned snout, long tusks and curved black ivory.~0:00:03.120883
+gpt-4o~Make a list of five questions that would help find out the feelings and opinions of a person when they are going through a mental health crisis.~0:00:03.033410
+gpt-4o~Group the following words into two categories according to their parts of speech: plant, flower, delicious, intelligent.~0:00:00.730036
+gpt-4o~We need to investigate why our website's traffic has dropped significantly. What are some potential causes?~0:00:10.903706
+gpt-4o~What type of sorting algorithm might be best for a dataset that contains large numbers of items with long strings?~0:00:06.195650
+gpt-4o~Given the following tools, decide which one is the most efficient for dealing with a clogged drain: plunger, drain snake, or vinegar and baking soda~0:00:03.110775
+gpt-4o~What are possible alternatives for development teams dealing with the lack of in-person collaboration?~0:00:08.230440
+gpt-4o~Based on the following input, generate some ideas for a business offering online language teaching services.~0:00:07.573167
+gpt-4o~Please provide a brief explanation of the differences between a deep learning algorithm and a traditional machine learning algorithm.~0:00:06.172696
+gpt-4o~Formulate a research hypothesis to be used to investigate the topic of the influence of advertising on consumer behavior~0:00:01.663392
+gpt-4o~Compose an email to the marketing team telling them about a new feature that has been added to the product.~0:00:03.712307
+gpt-4o~Create a case study about the following topics, focusing on the advantages and disadvantages of using machine learning.~0:00:00.884174
+gpt-4o~Generate a conversation in a natural language like a journalist interviewing an expert on the topic of artificial intelligence.~0:00:08.067395
+gpt-4o~Edit the following sentence to make it more concise: "We came up with a plan to make sure that our children have a better future."~0:00:00.358886
+gpt-4o~Is the following statement true or false? "The Earth is the only planet in our solar system with an atmosphere."~0:00:01.469329
+gpt-4o~Come up with three alternative solutions to this problem: It's hard to get a babysitter on short notice.~0:00:04.111831
+gpt-4o~Analyze the following sentence and identify the subject, the verb, and the object: "Robots can learn quickly."~0:00:01.778319
+gpt-4o~Identify and list down at least three technical details that are different between a desktop computer and a laptop~0:00:04.614844
+gpt-4o~Identify three types of government assistance that could help startups during the economic downturn.~0:00:04.977782
+gpt-4o~Determine which programming language would be best suited to develop a web based accounting application~0:00:07.178811
+gpt-4o~Rewrite the following sentence: " The consequence of failure was punishment for not doing the job correctly"~0:00:00.359718
+gpt-4o~Classify the following sentence as either an imperative or declarative: "Be sure to double-check the calculations."~0:00:00.471177
+gpt-4o~Generate three investment options for someone who has 10,000 dollars and wants to invest it for 10 years.~0:00:05.641201
+gpt-4o~Write a short story of 100 words or less that includes a character who has encountered a foreign land.~0:00:01.742893
+gpt-4o~Determine whether the following statement is true or false: Community colleges offer more economical tuition than four-year universities.~0:00:00.984735
+gpt-4o~Generate the name for a mobile application that allows users to order food from their local restaurants.~0:00:00.393435
+gpt-4o~Rewrite the following sentence using a synonym for the bolded word: The man was very perturbed by the situation.~0:00:00.370916
+gpt-4o~Generate a web page that displays a chart containing the population growth rate in different countries.~0:00:06.667862
+gpt-4o~Generate a sentence that explains the concept of natural language processing in three words or less.~0:00:00.277431
+gpt-4o~Design an employee recognition program that could be implemented for a company of approximately 500 people.~0:00:09.591805
+gpt-3.5-turbo-0125~Create a computer program to output all the possible combinations that can be made from the following letters: GDHAC~0:00:01.709169
+gpt-3.5-turbo-0125~Correct the following sentence for proper grammar: "The cat is drinking the milk then going to sleep".~0:00:00.473571
+gpt-3.5-turbo-0125~Suggest two methods to save energy and explain why these methods are more effective than other methods.~0:00:03.138955
+gpt-3.5-turbo-0125~Given the following statement, create a statistic or numerical figure to back it up: Many small businesses are having difficulties due to the current pandemic~0:00:01.006859
+gpt-3.5-turbo-0125~Generate a creative title for a paper about the ethical implications of using artificial intelligence for criminal justice.~0:00:00.949087
+gpt-3.5-turbo-0125~Classify the following sentence as either positive, negative, or neutral sentiment: "I have a feeling I'm going to like this."~0:00:00.284722
+gpt-3.5-turbo-0125~Generate a possible future for humankind if artificial intelligence (AI) becomes more advanced and prevalent.~0:00:02.202006
+gpt-3.5-turbo-0125~Write a sentence that humorously turns the following cliché phrase to its opposite: "still waters run deep"~0:00:00.387297
+gpt-3.5-turbo-0125~In the sentence "She enjoyed the ride through the countryside", replace the word "ride" with a synonym.~0:00:00.432734
+gpt-3.5-turbo-0125~Compose a tweet (280 characters or less) about an article on the importance of reducing our carbon footprint.~0:00:01.009623
+gpt-3.5-turbo-0125~Calculate the amount of money in a bank account with an initial $100 deposit and an interest rate of 6%, compounded annually~0:00:02.532665
+gpt-3.5-turbo-0125~Come up with a new slogan for a clothing brand with the words "dream", "sophistication", and "class".~0:00:00.471373
+gpt-3.5-turbo-0125~Write an opening line for a science fiction book about a future world where robots dominate society.~0:00:02.244789
+gpt-3.5-turbo-0125~Generate an appropriate response for a customer service chatbot when the customer asks for help with a technical issue.~0:00:00.660402
+gpt-3.5-turbo-0125~Make a list of safety precautions that people should follow if they find a wild animal in their home.~0:00:02.922707
+gpt-3.5-turbo-0125~Choose one of the following topics and write a persuasive speech about it: Should taxes be lowered for everyone?~0:00:04.949367
+gpt-3.5-turbo-0125~Generate a funny story (title and content in <100 words) about a hedgehog visiting a sushi restaurant.~0:00:01.957518
+gpt-3.5-turbo-0125~Generate a story starting with the sentence "It was already late when they stepped out of the house".~0:00:06.579441
+gpt-3.5-turbo-0125~Suggest an appropriate title for a blog post that discusses the impact of social media on our society.~0:00:00.426571
+gpt-3.5-turbo-0125~Generate a list of questions that can be used for interviewing someone to be a sales representative.~0:00:02.238447
+gpt-3.5-turbo-0125~Edit the following sentence to make it more concise and powerful: "My painting skills are not very good".~0:00:00.428365
+gpt-3.5-turbo-0125~Classify the following animals according to the type of organism they belong to: elephant, rabbit, snake.~0:00:00.587449
+gpt-3.5-turbo-0125~Generate a headline for an article that discusses the implications of recent advances in artificial intelligence~0:00:00.534418
+gpt-3.5-turbo-0125~Edit the following sentence to make it more concise: We regret to inform you that we are unable to accept your proposal.~0:00:00.493985
+gpt-3.5-turbo-0125~Generate a Haiku poem with 10 syllables in the first line, 7 syllables in the second, and 5 syllables in the third.~0:00:00.498228
+gpt-3.5-turbo-0125~Please suggest two possible ingredients that could be added to a smoothie and explain how they would benefit the drinker.~0:00:02.530233
+gpt-3.5-turbo-0125~Compose a script for an advertisement aimed at helping people understand the importance of exercise.~0:00:03.431921
+gpt-3.5-turbo-0125~Construct a regular expression that characterizes a valid string of length 5 containing only numbers.~0:00:00.420290
+gpt-3.5-turbo-0125~Rewrite the following sentence using third conditional: "I would have gone to university if I had enough money."~0:00:00.441470
+gpt-3.5-turbo-0125~Compose a story beginning with the sentence "Once upon a time, there was a little boy who loved to explore".~0:00:04.839245
+gpt-3.5-turbo-0125~Formulate a mathematical equation to express the movement of 100 g of a substance from a temperature of 273 K to a temperature of 293 K.~0:00:01.245723
+gpt-3.5-turbo-0125~Create a SQL query for the given database to select the customer records with a customer id of 1000 or greater.~0:00:00.439171
+gpt-3.5-turbo-0125~Imagine a scenario where turtles and frogs live together. Describe the living environment of the two species.~0:00:03.153519
+gpt-3.5-turbo-0125~Identify a specific example of a conflict of interests and explain why it constitutes such a conflict.~0:00:01.769848
+gpt-3.5-turbo-0125~Generate a random "password" that meets the following criteria: - 8 characters long - Must contain at least 1 letter and 1 number~0:00:00.441504
+gpt-3.5-turbo-0125~Given the sentence, "The cafe serves some of the best coffee in town," generate a slogan for the cafe.~0:00:00.443340
+gpt-3.5-turbo-0125~Create a blog post of 300 words discussing how AI has impacted the logistics and supply chain industry.~0:00:05.152738
+gpt-3.5-turbo-0125~Produce sample phrasing for a customer service representative for the following phrase: “Good morning, how may I help you?~0:00:00.494566
+gpt-3.5-turbo-0125~Edit the following sentence so that it is in the simple past tense: "Today, I goes to the store to buy eggs."~0:00:00.462861
+gpt-3.5-turbo-0125~Can you please provide a detailed answer for this question : Why is the price of goods higher in the market than on the internet?~0:00:04.058248
+gpt-3.5-turbo-0125~Create a query for a database that finds all countries in the world with a population greater than 10 million.~0:00:00.467567
+gpt-3.5-turbo-0125~Edit the following sentence as required: "The great pyramid is one of the greatest wonder of the world."~0:00:00.447968
+gpt-3.5-turbo-0125~Answer the following question: "What is the most important factor in judging the success of a startup?"~0:00:01.979590
+gpt-3.5-turbo-0125~Edit the following sentence so that it is grammatically correct: "The books in the store was on sale."~0:00:00.452448
+gpt-3.5-turbo-0125~Answer the following question:What are some of the differences between a red kangaroo and a gray kangaroo?~0:00:04.016759
+gpt-3.5-turbo-0125~Write a short story, set in the future, about a character who decides to travel to a distant planet in pursuit of a new life~0:00:04.888297
+gpt-3.5-turbo-0125~Describe a situation when understanding the meaning of context might be necessary to complete the task.~0:00:01.963898
+gpt-3.5-turbo-0125~Shorten the sentence without changing the meaning: Even though Jennifer studied a lot, she performed very poorly on the test.~0:00:00.488581
+gpt-3.5-turbo-0125~Can you name a branch of computer science dealing with the creation of programs to simulate the behavior of an autonomous agent?~0:00:00.733200
+gpt-3.5-turbo-0125~Formulate a query to match and retrieve a user-uploaded PDF document that contains the word "insurance".~0:00:00.655676
+gpt-3.5-turbo-0125~Verify if the following claim is true- "Kaveri River is the longest river in India." Output true or false.~0:00:00.311193
+gpt-3.5-turbo-0125~Imagine you are a travel blogger writing about your experience in a foreign country. Draft a short blog post about your favorite memory there.~0:00:04.274306
+gpt-3.5-turbo-0125~Suggest a creative and engaging activity that could be done with a group of elementary school children.~0:00:01.970374
+gpt-3.5-turbo-0125~If a customer calls and wants to find out their order status, what steps should the customer service representative take?~0:00:02.472755
+gpt-3.5-turbo-0125~Identify whether the following phrase is a true or false statement “The universe is ever expanding.”~0:00:00.338234
+gpt-3.5-turbo-0125~Summarize the following statement in a single sentence: Our goal is to create sustainable and eco-friendly products.~0:00:00.520989
+gpt-3.5-turbo-0125~Generate a multiple choice question based on the following statement: "Natural language processing is a field of study within computer science."~0:00:00.751668
+gpt-3.5-turbo-0125~Incorporate ideas from the following quote into a presentayion: "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change".~0:00:02.896392
+gpt-3.5-turbo-0125~Generate a random password with length 8 and containing one capital letter, one number, and one special character.~0:00:00.412654
+gpt-3.5-turbo-0125~Search and provide a numeric answer to the question "how many voting members are in the UN Security Council?"~0:00:00.576369
+gpt-3.5-turbo-0125~Edit the following sentence so it uses the word "licentious": Bill and Ted's behavior was inappropriate.~0:00:00.449731
+gpt-3.5-turbo-0125~Identify any contradictions in the following sentence: "I always try to be honest, but sometimes I lie."~0:00:01.088396
+gpt-3.5-turbo-0125~Classify the type of clothing based on the following description: A sleeveless top with a V-neck collar.~0:00:00.350905
+gpt-3.5-turbo-0125~The web page should display the following message, "This page is under construction. Please check back soon." Construct the HTML code to display the message.~0:00:00.839301
+gpt-3.5-turbo-0125~Write an apt email in 150 words, thanking your current boss for providing you an opportunity for growth.~0:00:02.641830
+gpt-3.5-turbo-0125~Generate a story of 3 to 5 sentences that uses a metaphor to describe the relationship between two people~0:00:02.671089
+gpt-3.5-turbo-0125~Create a Multilayer Perceptron (MLP) Neural Network with three inputs and one output that can predict an output based on the input variables.~0:00:06.248323
+gpt-3.5-turbo-0125~Categorize the words "whale," "dolphin," "shark," "clam," and "crab" according to their biological classification.~0:00:00.942985
+gpt-3.5-turbo-0125~What are the benefits of using a deep learning model instead of a traditional machine learning model?~0:00:03.648016
+gpt-3.5-turbo-0125~Generate an article title for a news article discussing the side-effects of the coronavirus mandated mask-wearing.~0:00:00.530226
+gpt-3.5-turbo-0125~Based on the following description, classify the type of animal: Hairy mammal with upturned snout, long tusks and curved black ivory.~0:00:00.503808
+gpt-3.5-turbo-0125~Make a list of five questions that would help find out the feelings and opinions of a person when they are going through a mental health crisis.~0:00:01.367945
+gpt-3.5-turbo-0125~Group the following words into two categories according to their parts of speech: plant, flower, delicious, intelligent.~0:00:00.432753
+gpt-3.5-turbo-0125~We need to investigate why our website's traffic has dropped significantly. What are some potential causes?~0:00:04.895597
+gpt-3.5-turbo-0125~What type of sorting algorithm might be best for a dataset that contains large numbers of items with long strings?~0:00:01.607224
+gpt-3.5-turbo-0125~Given the following tools, decide which one is the most efficient for dealing with a clogged drain: plunger, drain snake, or vinegar and baking soda~0:00:01.408673
+gpt-3.5-turbo-0125~What are possible alternatives for development teams dealing with the lack of in-person collaboration?~0:00:02.510660
+gpt-3.5-turbo-0125~Based on the following input, generate some ideas for a business offering online language teaching services.~0:00:03.553629
+gpt-3.5-turbo-0125~Please provide a brief explanation of the differences between a deep learning algorithm and a traditional machine learning algorithm.~0:00:01.945715
+gpt-3.5-turbo-0125~Formulate a research hypothesis to be used to investigate the topic of the influence of advertising on consumer behavior~0:00:01.374893
+gpt-3.5-turbo-0125~Compose an email to the marketing team telling them about a new feature that has been added to the product.~0:00:02.548757
+gpt-3.5-turbo-0125~Create a case study about the following topics, focusing on the advantages and disadvantages of using machine learning.~0:00:06.806392
+gpt-3.5-turbo-0125~Generate a conversation in a natural language like a journalist interviewing an expert on the topic of artificial intelligence.~0:00:04.697258
+gpt-3.5-turbo-0125~Edit the following sentence to make it more concise: "We came up with a plan to make sure that our children have a better future."~0:00:00.399998
+gpt-3.5-turbo-0125~Is the following statement true or false? "The Earth is the only planet in our solar system with an atmosphere."~0:00:00.388838
+gpt-3.5-turbo-0125~Come up with three alternative solutions to this problem: It's hard to get a babysitter on short notice.~0:00:01.551658
+gpt-3.5-turbo-0125~Analyze the following sentence and identify the subject, the verb, and the object: "Robots can learn quickly."~0:00:00.473861
+gpt-3.5-turbo-0125~Identify and list down at least three technical details that are different between a desktop computer and a laptop~0:00:03.157387
+gpt-3.5-turbo-0125~Identify three types of government assistance that could help startups during the economic downturn.~0:00:03.766991
+gpt-3.5-turbo-0125~Determine which programming language would be best suited to develop a web based accounting application~0:00:03.121520
+gpt-3.5-turbo-0125~Rewrite the following sentence: " The consequence of failure was punishment for not doing the job correctly"~0:00:00.418530
+gpt-3.5-turbo-0125~Classify the following sentence as either an imperative or declarative: "Be sure to double-check the calculations."~0:00:00.360905
+gpt-3.5-turbo-0125~Generate three investment options for someone who has 10,000 dollars and wants to invest it for 10 years.~0:00:02.320526
+gpt-3.5-turbo-0125~Write a short story of 100 words or less that includes a character who has encountered a foreign land.~0:00:01.729226
+gpt-3.5-turbo-0125~Determine whether the following statement is true or false: Community colleges offer more economical tuition than four-year universities.~0:00:00.492326
+gpt-3.5-turbo-0125~Generate the name for a mobile application that allows users to order food from their local restaurants.~0:00:00.384268
+gpt-3.5-turbo-0125~Rewrite the following sentence using a synonym for the bolded word: The man was very perturbed by the situation.~0:00:00.485623
+gpt-3.5-turbo-0125~Generate a web page that displays a chart containing the population growth rate in different countries.~0:00:05.892721
+gpt-3.5-turbo-0125~Generate a sentence that explains the concept of natural language processing in three words or less.~0:00:00.352266
+gpt-3.5-turbo-0125~Design an employee recognition program that could be implemented for a company of approximately 500 people.~0:00:06.180883
