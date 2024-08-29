@@ -2,7 +2,7 @@ from tqdm import tqdm
 from imdb.imdb import ask_gpt, df
 from sklearn.metrics import confusion_matrix, f1_score
 
-short_sources = ("imdb/gpt4o_prompts.txt", "imdb/llmlingua2_prompts.txt")
+short_sources = ("imdb/gpt4o_prompts.txt", "imdb/llmlingua_prompts.txt", "imdb/llmlingua2_prompts.txt")
 
 def is_positive(text):
     if "yes" in text.lower():
