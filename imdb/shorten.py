@@ -5,7 +5,10 @@ from openai_utils import fetch_openai_response
 
 SOURCE_FILE = "imdb/long_prompts.txt"
 
-# llm_lingua_compressor = PromptCompressor(model_name="NousResearch/Llama-2-7b-hf")
+llm_lingua_compressor = PromptCompressor(
+                                         model_name="TheBloke/Llama-2-7b-Chat-GPTQ",
+                                         device_map="cpu"
+                                        )
 
 llm_lingua2_compressor = PromptCompressor(
     model_name="microsoft/llmlingua-2-xlm-roberta-large-meetingbank",
